@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mongojava","l":"Conexion"},{"p":"mongojava","l":"MongoJava"}];updateSearchResults();
